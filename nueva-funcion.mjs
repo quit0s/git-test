@@ -1,0 +1,1 @@
+console.log("actualize la nueva funcion solo")
